@@ -42,7 +42,3 @@ import numpy as np
 arr= np.array([1,3,5,7])
 x = np.searchsorted(arr,[2,4,6])
 print(x)
-a = np.insert(arr,1,2)
-b = np.insert(arr,2,4)
-c = np.insert(arr,3,6)
-print(r)
